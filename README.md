@@ -1,5 +1,5 @@
 # Security Analyst Internship - Freya Rose
-**Registration Number:** CCE24CS087  
+
 **College:** Christ College of Engineering, Irinjalakuda
 
 ## Project Overview
